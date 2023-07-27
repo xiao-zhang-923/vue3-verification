@@ -1,4 +1,6 @@
 # 使用方法
+## 
+在components创建一个PuzzleVerification文件夹，然后index.vue 放到里面即可
 ## 引入组建
 ```
 import PuzzleVerification from '@/components/PuzzleVerification/index.vue'

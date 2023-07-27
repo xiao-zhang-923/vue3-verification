@@ -1,5 +1,5 @@
 # 使用方法
-## 
+## 注意
 在components创建一个PuzzleVerification文件夹，然后index.vue 放到里面即可
 ## 引入组建
 ```
